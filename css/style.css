@@ -13,6 +13,23 @@ body {
     padding: 20px;
     height: 100vh;
   }
+
+  .voltar button{
+    border: none;  
+    background: transparent;
+}
+
+.voltar button a{
+    position: fixed;
+    top: 8px;
+    left: 10px;
+    padding: 10px;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    /* box-shadow: 2px 2px #fff; */
+    
+}
   
   .page-title {
     color: #ffffff;
